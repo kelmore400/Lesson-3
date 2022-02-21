@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+.App ul, h3 {
+  text-align: left;
+}
+h3 {
+  margin-left: 20px;
+}
